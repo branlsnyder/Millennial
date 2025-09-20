@@ -1,12 +1,22 @@
 <article class="featured-post-card">
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image
-      %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})" {% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
+    <div
+      class="featured-post"
+      {%
+      if
+      post.image
+      %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"
+      {%
+      endif
+      %}
+    >
+      <div class="post-content">
+        <h2><span>{{ post.title }}</span></h2>
 
-      {%- if post.subtitle -%}
-      <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-      {%- endif -%}
+        {%- if post.subtitle -%}
+        <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+        {%- endif -%}
+      </div>
     </div>
   </a>
 </article>
