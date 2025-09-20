@@ -6,7 +6,7 @@
   width: $container-width;
   margin-left: auto;
   margin-right: auto;
-}
+} 
 .container a {
   text-decoration: underline;
 }
@@ -32,3 +32,19 @@
     width: 95vw;
   }
 }
+
+
+.posts-grid {
+  display: grid;
+  // display:inline;
+  gap: 1.5rem;
+
+  /* 1 column on phones, 2 ≥600 px, 3 ≥900 px */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+/* make the card fill its grid cell */
+.posts-grid article {
+  width: 100%;   // optional—block elements already do this
+}
+

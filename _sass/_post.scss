@@ -1,5 +1,6 @@
 .post-content {
-  width: 600px;
+  // width: 600px;
+  width: 90%;
   display: block;
   margin: 10px auto 10px;
 }
@@ -93,4 +94,29 @@
   .related-thumbnail{
     width: 95vw;
   }
+}
+
+/*
+  Featured Documentation – floats right so text wraps around it
+*/
+.featured-documentation {
+  float: right;
+  width: auto;
+  max-width: 60%;      /* at most 60% of the post width */
+  margin: 0 0 1rem 1rem; /* space from surrounding text */
+}
+
+@media (max-width: $tablet-width) {
+  .featured-documentation {
+    float: none;       /* stack on small screens */
+    width: 100%;
+    margin: 0 0 1rem 0;
+  }
+}
+
+// Make embedded iframes inside featured documentation responsive
+.featured-documentation iframe {
+  width: 100% !important;  /* override hard-coded width */
+  height: auto !important; /* preserve aspect ratio on shrink */
+  max-width: 100%;
 }
