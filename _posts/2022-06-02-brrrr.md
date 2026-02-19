@@ -13,11 +13,6 @@ In *brrrr*, the percussionist repeatedly plays a simple 6-stroke roll, and contr
 
 Written for Tamara Kurkiewicz
 
-## Performance History
-- 6/2025 - Stuttgart, Germany (Tamara Kurkiewicz)
-- 10/2022 - IRCAM Forum, NYU, New York City (Adriana Harrison)​
-- 4/2022 - Leonberg, Germany (Tamara Kurkiewicz)
-- 1/2022 - Stuttgart, Germany (Tamara Kurkiewicz)
 
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/rw_XNeq5YQA"

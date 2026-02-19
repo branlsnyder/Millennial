@@ -1,0 +1,9 @@
+{% assign post_events = site.data.events | where: "Title", page.title %}
+{% if post_events.size > 0 %}
+<h2>Performance History</h2>
+<ul class="performance-history">
+{% for event in post_events %}
+  <li>{{ event.Date | date: "%-m/%Y" }}{% if event.Location != "" %} - {{ event.Location }}{% endif %}{% if event.Performer != "" %} ({{ event.Performer }}){% endif %}</li>
+{% endfor %}
+</ul>
+{% endif %}
