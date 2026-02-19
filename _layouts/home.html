@@ -5,6 +5,10 @@ title: Home
 
 <div class="home-salutation-group">
   <!-- <h1>Composer, Performer, Media Artist</h1> -->
+  <p>
+    Hi, I'm Brandon, welcome to my website! See below for some of my work, or
+    use the navigation menu for more.
+  </p>
   <img
     id="home-headshot"
     class="home-image"
@@ -40,8 +44,15 @@ title: Home
     const imgA = "assets/img/headshot-bare-1.png";
     const imgB = "assets/img/headshot-bare-2.png";
 
-    img.addEventListener("click", () => {
+    function toggleImage() {
       img.src = img.src.endsWith(imgA) ? imgB : imgA;
+    }
+
+    // Use both click and touchstart for better cross-platform support
+    img.addEventListener("click", toggleImage);
+    img.addEventListener("touchstart", (e) => {
+      e.preventDefault(); // Prevent the click event from firing after touchstart
+      toggleImage();
     });
   });
 </script>
