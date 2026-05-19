@@ -38,7 +38,3 @@ Exhibited at the BAAA Gallery
 ## 
 
 ## -program note by Youngjin Song, with help from the artists
-
-## Performance History
-
-05/2019 - Exhibited at the BAAA Gallery (dir. Youngjin Song), Cambridge, MA.

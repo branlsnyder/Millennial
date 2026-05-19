@@ -22,7 +22,3 @@ Video: audio-only version.
 We thought about bells as instruments of beckoning or calling in--especially in regard to "calls to prayer". We outfitted 6 ceramic "soundless bells" with mini-speakers hooked to tiny breadboards, which play a 6-channel audio track. The metaphor of a "soundless bell" provokes in us thoughts of unanswered prayers, unspoken desires, and a constant inner calling out to call in--a need for an other. Each bell "pings", "clinks", and "roars", sometimes on their own, sometimes together, and sometimes in a halted, stuttering manner. 
 
 -Note written by Michelle Chun and Brandon Woo Snyder
-
-## Performance History
-
-7/2024 - '[maybe you need time for your eyes to adjust to the dark](https://chicagoartistscoalition.org/events/maybe-you-need-time-for-your-eyes-to-adjust-to-the-dark)' , Chicago Arts Coalition, Chicago, IL.

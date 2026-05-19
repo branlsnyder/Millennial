@@ -36,7 +36,3 @@ It is one to be perpetually remembering and forgetting
                       
 
                           the things which are among us always.
-
-## Performance History
-
-4/15/2017 - Faint Noise (premiere). [HGNM](http://hgnm.org/)'s 2017 concert series. Harvard University. Cambridge, MA.

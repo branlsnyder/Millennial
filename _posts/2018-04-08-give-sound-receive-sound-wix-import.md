@@ -10,7 +10,6 @@ film performance featuring Brandon Lincoln Snyder, Eden Girma, and David Angelo
 <iframe src="https://www.youtube.com/embed/PPLrfDxQ4tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {: .featured-media}
 
-
 ## Program Note
 
 Brandon Lincoln Snyder, Eden Girma, and David Angelo perform Pauline Oliveros’ "Give Sound / Receive Sound," whose entire sheet music is the following:
@@ -49,7 +48,3 @@ Give Sound / Receive Sound (screening)
 live music by Eden Girma
 
 Improvisation by David Angelo, Kevin Madison, Bri Tagliaferro, and Dan Reifsteck
-
-## Performance History
-
-4/8/2018 - Premiered at GIVE SOUND / RECEIVE SOUND, a night of music hosted at the [Vessel Gallery](https://vessel.gallery/sound). Cambridge, MA.

@@ -30,11 +30,3 @@ Electronics Solo - 9'
 The Problem(s) of Deer is an improvisational duo project combining live poetry and electronic music by Lydia Liu and Brandon Woo Snyder. Approaching speech as both a semantic and a melodic material, Liu and Woo Snyder react to each other in real time to create uniquely moving experiences of intersecting sound and language.
 
 -Note written by Lydia Liu and Brandon Woo Snyder
-
-## Performance History
-
-3/2025 - Microscope Gallery, New York City
-
-10/2024 - Unnameable Books, New York City
-
-8/2024 - House Show, New York City

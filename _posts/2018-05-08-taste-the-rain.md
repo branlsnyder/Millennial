@@ -8,13 +8,6 @@ category: performance
 <iframe src="https://www.youtube.com/embed/Md-tlM1gFGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {: .featured-media}
 
-
 ## Program Note
 
 Slurpslurpslurpsrksusprksurp!!!
-
-## Performance History
-
-5/8/2018 - Premiered by the composer at the 2018 HYDRA concerts. Paine Hall, Harvard University, Cambridge, MA.
-
-6/8/2018 - Studio recording performed and produced by the composer in Santa Ana, California.

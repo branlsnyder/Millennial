@@ -30,7 +30,3 @@ The aural component to Chantine's architecture thesis at the Harvard Graduate Sc
 Abstract:
 
 Since the Ancient Greeks, Western architecture has privileged the visual sense, eclipsing all other human faculties. In this oversight, architecture has typically responded to auditory functions at the scale of an auditorium or a concert hall, programmatic solutions catering to a collective experience. This thesis privileges the aural sense at a more intimate scale: domestic architecture and the habits of daily life. It examines the agency of the domestic space to curate an acoustic experience in ways comparable to a musical composition. Beyond an unresponsive backdrop, the interior space of a home subverts, directs, and manipulates acoustic arrangements. In this way, architecture and music are co-constituted as curated spatial experiences. The aim here is to demonstrate music as an alternative, aural form of architectural representation. By visually and aurally presenting the sounds produced inside a home, its quotidian aspects are captured as a cinematic composition. Like an atmospheric rendering that exceeds the rationality of the architectural plan, music too can provoke an architectural aura, challenging orthographic drawings and three-dimensional models, the more orthodox modes of representation that continue to broker the architectural imagination.
-
-## Performance History
-
-02/25/2019 - Premiered at the Harvard Graduate School for Design. Harvard University. Cambridge, MA.
