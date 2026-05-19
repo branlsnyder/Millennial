@@ -5,8 +5,10 @@ subtitle: "6-Week Online Course"
 category: workshops
 tags: [web audio, Browser Sound]
 image: logo-browser-sound.png
-documentation: <img src="assets/img/logo-browser-sound.png">
 ---
+<img src="assets/img/logo-browser-sound.png" alt="Browser Sound">
+{: .featured-media}
+
 JavaScript for Sound Artists is an intro to Javascript crash course designed for musicians and sound artists, with a focus on creatively harnessing web technology. I held this class online over 6-weeks for Browser Sound's 2023 festival and culminated in a reading session with a hybrid-format ensemble of coder-instrumentalists. 
 
 We learned javascript fundamentals through building 4 web-sound art projects:

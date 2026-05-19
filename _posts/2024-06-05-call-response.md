@@ -5,8 +5,9 @@ subtitle: "Sound Installation with Ceramic and Arduino"
 category: composition
 tags: [sound installation]
 image: call-response-1.jpg
-documentation: <iframe src="https://www.youtube.com/embed/I217x_6b7HY?si=LrdFFhed7uQyN5wv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
+<iframe src="https://www.youtube.com/embed/I217x_6b7HY?si=LrdFFhed7uQyN5wv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{: .featured-media}
 
 Sound installation with ceramic and arduino. Collaboration with Michelle Chun.
 

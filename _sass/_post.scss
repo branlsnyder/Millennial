@@ -97,26 +97,49 @@
 }
 
 /*
-  Featured Documentation – floats right so text wraps around it
+  Featured media – floats right so text wraps around it (Kramdown: {: .featured-media })
 */
-.featured-documentation {
+$featured-media-width: 360px;
+
+.post-content article::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.featured-media {
   float: right;
-  width: auto;
-  max-width: 60%;      /* at most 60% of the post width */
-  margin: 0 0 1rem 1rem; /* space from surrounding text */
+  width: $featured-media-width;
+  max-width: 60%;
+  margin: 0 0 1rem 1rem;
+}
+
+.featured-media iframe,
+iframe.featured-media,
+.featured-media img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: 0;
+}
+
+.featured-media img {
+  object-fit: cover;
+}
+
+// Kramdown wraps bare <img> in <p class="featured-media">
+p.featured-media {
+  margin-top: 0;
 }
 
 @media (max-width: $tablet-width) {
-  .featured-documentation {
-    float: none;       /* stack on small screens */
+  .featured-media {
+    float: none;
     width: 100%;
+    max-width: 100%;
     margin: 0 0 1rem 0;
   }
-}
-
-// Make embedded iframes inside featured documentation responsive
-.featured-documentation iframe {
-  width: 100% !important;  /* override hard-coded width */
-  height: auto !important; /* preserve aspect ratio on shrink */
-  max-width: 100%;
 }
