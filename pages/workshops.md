@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops, Artistic Directing, Teaching
+title: Teaching
 category: workshops
 permalink: /workshops
 ---
