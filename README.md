@@ -1,6 +1,8 @@
 # brandonlincolnsnyder.com
 
-Personal website of Brandon Woo Snyder — composer, performer, media artist. Built with [Jekyll](https://jekyllrb.com/) using the Millennial theme, hosted on GitHub Pages.
+Personal website of **Brandon Woo Snyder** — composer, performer, media artist.
+
+Built with [Jekyll](https://jekyllrb.com/) using the [Millennial](https://github.com/LeNPaul/Millennial) theme by Paul Le, hosted on [GitHub Pages](https://pages.github.com/).
 
 ## Prerequisites
 
@@ -46,10 +48,10 @@ image: my-image.jpg         # filename in assets/img/
 ```
 
 **Categories** map to the page they appear on:
-- `composition` → /composition
-- `performance` → /performance
-- `workshops` → /workshops
-- `writings` → appears only on the homepage feed (no dedicated page)
+- `composition` -> /composition
+- `performance` -> /performance
+- `workshops` -> /workshops
+- `writings` -> appears only on the homepage feed (no dedicated page)
 
 **Tags** are used for related posts and can be browsed at /tags.
 
@@ -65,9 +67,9 @@ Place images in `assets/img/`. Reference them in front matter as `image: filenam
 
 ## Site configuration
 
-- `_config.yml` — Jekyll build settings, title, description, plugins
-- `_data/settings.yml` — menu items, social links, Google Analytics, Disqus
-- `_data/events.csv` — performance/event history for each post
+- `_config.yml` -- Jekyll build settings, title, description, plugins
+- `_data/settings.yml` -- menu items, social links, Google Analytics, Disqus
+- `_data/events.csv` -- performance/event history for each post
 
 ## Directory structure
 
@@ -83,4 +85,3 @@ Place images in `assets/img/`. Reference them in front matter as `image: filenam
 ├── pages/           # Category landing pages (about, composition, performance, workshops)
 └── scripts/         # Utility scripts (wix_import.py)
 ```
-
