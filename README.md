@@ -84,10 +84,3 @@ Place images in `assets/img/`. Reference them in front matter as `image: filenam
 └── scripts/         # Utility scripts (wix_import.py)
 ```
 
-## Importing from the legacy Wix site
-
-The `scripts/wix_import.py` script scrapes markdown exported from the old Wix site and converts it to Jekyll post format. It requires a local copy of the Wix export. Run:
-
-```sh
-python3 scripts/wix_import.py
-```
