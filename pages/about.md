@@ -5,6 +5,14 @@ permalink: /about
 
 ---
 
-Brandon Woo Snyder (he/him) is a composer and educator based out of New York City. His music has been performed by the SWR Vokalensemble, Line Upon Line, and Ensemble Aventure, at institutions including IRCAM, impuls, and the Jack Straw Cultural Center. He worked as a research assistant at the music informatics institute at Karlsruhe Conservatory, and has presented research at the Web Audio Conference, TENOR, and IRCAM Forum. He holds a masters in composition from the Stuttgart Conservatory, and a bachelors in music from Harvard University, and is currently pursuing a PhD in Integrated Composition, Improvisation, and Technology at the UC Irvine Claire Trevor School of the Arts. He is the founding director of Browser Sound, a festival for web-based sound art, and he currently teaches media technology for the New York Public Library. 
+Brandon Woo Snyder (he/him) is a composer and educator interested in the cultural impact of digital technology on the performing arts.
+
+His music has been performed by the SWR Vokalensemble, line upon line, and Ensemble Aventure, and at spaces including IRCAM, impuls, and the Jack Straw Cultural Center. He has taught music and technology literacy for the New York Public Library, the Institute for Music Informatics and Musicology at Karlsruhe Conservatory, and Browser Sound, a web-art festival he founded and ran from 2020-2024.
+
+He received a masters in music composition at the Hochschule für Musik und Darstellende Kunst Stuttgart, and a bachelors of music at Harvard University. He has studied with Chaya Czernowin, Steven Kazuo Takasugi, Claire Chase, Luxa Schüttler, and Vijay Iyer.
+
+He is currently pursuing his PhD in Integrated Composition, Improvisation, and Technology at UC Irvine.
+
+<a href="assets/pdfs/CV_26_05_2026.pdf">C. V.</a>
 
 <img src="assets/img/library-lion-1.png" alt="Brandon Lincoln Woo Snyder">
