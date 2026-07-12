@@ -8,8 +8,8 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Composition',  url: 'composition'}
-- {name: 'Performance',  url: 'performance'}
-- {name: 'Workshops',  url: 'workshops'}
+- {name: 'Improvisation',  url: 'improvisation'}
+- {name: 'Teaching',  url: 'teaching'}
 - {name: 'About',              url: 'about'}
 
 

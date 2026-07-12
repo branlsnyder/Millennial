@@ -1,12 +1,19 @@
 /////////////////OPENING IMAGE
 
-// h1, .home-image {
-//   display: inline;
-// }
-// h1 {
-//   padding-right:50%;
+.home-salutation-group {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
 
-// }
+.home-salutation-group p {
+  flex: 1;
+}
+
+.home-salutation-group #home-headshot {
+  flex-shrink: 0;
+}
+
 .home-image {
   height: 15vw;
   width: auto;
