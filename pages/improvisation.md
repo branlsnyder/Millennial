@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Performance
+title: Improvisation
 category: performance
-permalink: /performance
+permalink: /improvisation
 ---
 
 <div class="posts-grid">

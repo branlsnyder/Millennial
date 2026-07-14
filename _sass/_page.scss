@@ -5,3 +5,33 @@
   padding: 0px 10px 10px;
 }
 
+.posts-tabular {
+  margin: 20px 0;
+}
+
+.tabular-entry {
+  margin-bottom: 24px;
+}
+
+.tabular-entry h3 {
+  margin: 0 0 4px 0;
+  font-family: $heading-font-family;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.tabular-entry h3 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.tabular-entry h3 a:hover {
+  text-decoration: underline;
+}
+
+.tabular-entry p {
+  margin: 0;
+  font-size: 0.95em;
+  color: #666;
+}
+
