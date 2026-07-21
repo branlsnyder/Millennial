@@ -2,7 +2,7 @@
 layout: post
 title: "Spirituality and Sound"
 category: writings
-tags: [Harvard, column]
+tags: [Harvard, column, featured]
 ---
 
 *This word originally appeared in my Fall 2017 Harvard Crimson column, "Difference Tones," which can be found* [*here.*](http://www.thecrimson.com/column/difference-tones/)

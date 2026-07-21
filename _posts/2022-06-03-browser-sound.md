@@ -3,7 +3,7 @@ layout: post
 title: "Browser Sound"
 subtitle: "Community for Web-based Sound Art"
 category: workshops
-tags: [web audio, Browser Sound]
+tags: [web audio, Browser Sound, featured]
 image: logo-browser-sound.png
 ---
 <img src="assets/img/logo-browser-sound.png" alt="Browser Sound">

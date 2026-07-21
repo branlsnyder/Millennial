@@ -9,6 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Composition',  url: 'composition'}
 - {name: 'Improvisation',  url: 'improvisation'}
+- {name: 'Film/Video',  url: 'film'}
 - {name: 'Teaching',  url: 'teaching'}
 - {name: 'About',              url: 'about'}
 

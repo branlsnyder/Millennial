@@ -2,6 +2,7 @@
 layout: post
 title: "A Gradual Process - An MEC Original"
 category: writings
+tags: [featured]
 ---
 
 I produced another video. This time, we take a dive into Music for 18 Musicians, Steve Reich's seminal work, and the anthem for minimalism in contemporary music.

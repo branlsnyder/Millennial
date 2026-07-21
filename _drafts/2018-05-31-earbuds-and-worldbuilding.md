@@ -3,7 +3,7 @@ layout: post
 title: "Earbuds and Worldbuilding"
 subtitle: "*This word originally appeared in my Fall 2017 Harvard Crimson column, 'Difference Tones,' which can be found* *here.*"
 category: writings
-tags: [Harvard, column]
+tags: [Harvard, column, featured]
 ---
 
 When we are looking death in the face, we will not take up our musical instruments. But, when death seems far from us, what will remind us, prepare us, for the work needs to be done when death comes?

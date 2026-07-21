@@ -3,7 +3,7 @@ layout: post
 title: "Difference Tones - April 2019"
 subtitle: "*(written transcript below)*"
 category: writings
-tags: [Podcast, Difference Tones]
+tags: [Podcast, Difference Tones, featured]
 ---
 
 *Quick Links:*

@@ -3,7 +3,7 @@ layout: post
 title: "Why I Moved to Germany - Difference Tones - June 2019"
 subtitle: "*Quick Links:*"
 category: writings
-tags: [Podcast, Difference Tones]
+tags: [Podcast, Difference Tones, featured]
 ---
 
 [Soundcloud link here](http://soundcloud.com/brandon-snyder-5/why-i-moved-to-germany-difference-tones-june-2019) (widget has trouble on mobile)

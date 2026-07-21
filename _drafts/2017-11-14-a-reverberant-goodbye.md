@@ -3,7 +3,7 @@ layout: post
 title: "A Reverberant Goodbye"
 subtitle: "*This word originally appeared in my Fall 2017 Harvard Crimson column, 'Difference Tones,' which can be found* *here.*"
 category: writings
-tags: [Harvard, column]
+tags: [Harvard, column, featured]
 ---
 
 When we consider what the components of music are, the answer we often give is melody, harmony, and rhythm. However, it’s apparent that these means of description are not useful for all types of music. In the case of Sam Smith’s “Too Good at Goodbyes,” the chordal harmony is actually a banal feature of the music. It is more illuminating to point out the track’s gospel chorus feature, jaded lyrics, and the cathedral-like reverberations that bloom around Smith’s voice as he lets out long, high notes. Acoustical reverberation, or “reverb,” is a component to this Smith track that is particularly worth noticing as a listener. Before recording technology advanced to its modern capability, the acoustics of a piece of music would be fixed to whatever space it was performed in. With the modern capabilities of processing audio through a digital reverb software, however, producers are able to modulate the “space” surrounding the music just as flexibly as they may choose melodies, harmonies, instrumentation, and lyrics. Such a tool allows reverb to form the musical narrative of a song. In Smith’s “Too Good at Goodbyes,” the expanding and contracting of reverb from section to section amplifies the track’s themes of loneliness and relationship, as well as the lines between sacred and secular.

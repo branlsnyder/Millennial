@@ -3,7 +3,7 @@ layout: post
 title: "Did I Steward Authority Well? - Difference Tones - May 2019"
 subtitle: "*(written transcript below)*"
 category: writings
-tags: [Podcast, Difference Tones]
+tags: [Podcast, Difference Tones, featured]
 ---
 
 [Soundcloud link here](http://soundcloud.com/brandon-snyder-5/did-i-steward-authority-well-difference-tones-may-2019) (widget has trouble on mobile view)

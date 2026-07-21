@@ -6,7 +6,7 @@ permalink: /composition
 ---
 <div class="posts-grid">
 {% for post in site.posts %}
-{% if post.category == "composition"%}
+{% if post.categories contains "composition"%}
 {% include featured-post.html %}
 {% endif %}
 {% endfor %}

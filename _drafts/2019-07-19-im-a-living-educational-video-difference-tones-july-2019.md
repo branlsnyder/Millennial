@@ -3,7 +3,7 @@ layout: post
 title: "I'm a Living Educational Video - Difference Tones - July 2019"
 subtitle: "*Quick Links:*"
 category: writings
-tags: [Podcast, Difference Tones]
+tags: [Podcast, Difference Tones, featured]
 ---
 
 Soundcloud link [here](http://soundcloud.com/brandon-snyder-5/im-a-living-educational-video-difference-tones-july-2019) (widget has trouble on mobile)

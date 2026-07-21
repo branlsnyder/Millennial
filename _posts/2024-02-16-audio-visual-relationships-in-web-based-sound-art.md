@@ -2,7 +2,7 @@
 layout: post
 title: "Audio-Visual Relationships in Web-based Sound Art"
 category: writings
-tags: [webart]
+tags: [webart, featured]
 image: 5332d5_1d4ee53d2eae43348fedb84dff0a66f4-mv2.png
 ---
 

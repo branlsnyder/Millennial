@@ -3,7 +3,7 @@ layout: post
 title: "[Wix re-import] Browser Sound"
 subtitle: "Keep me in the loop with Browser Sound"
 category: workshops
-tags: [wix-re-import]
+tags: [wix-re-import, featured]
 wix_reimport: true
 ---
 

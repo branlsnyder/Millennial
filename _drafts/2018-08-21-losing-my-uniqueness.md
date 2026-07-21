@@ -3,7 +3,7 @@ layout: post
 title: "Losing My Uniqueness"
 subtitle: "{: .featured-media}"
 category: writings
-tags: [Podcast, Harvard, Darmstadt]
+tags: [Podcast, Harvard, Darmstadt, featured]
 image: 5332d5_32bc48e4a72b4a628f65172ca9ad472f-mv2.jpg
 ---
 

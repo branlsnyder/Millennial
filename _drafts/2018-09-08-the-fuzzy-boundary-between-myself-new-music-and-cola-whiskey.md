@@ -3,7 +3,7 @@ layout: post
 title: "The Fuzzy Boundary Between Myself, New Music, and Cola Whiskey | (Liza Lim I)"
 subtitle: "The Navigator: Angel of History Aria"
 category: writings
-tags: [interview, Darmstadt, Liza Lim]
+tags: [interview, Darmstadt, Liza Lim, featured]
 ---
 
 In Germany, they sell cocktails of cola and Jack Daniel’s whiskey in pre-packaged cans. I thought that was weird, but not for the reason you would think. In the summer after my Freshman year of college, I did an intense musicianship program at the European American Musical Alliance (EAMA). Species counterpoint, 4-part voice writing, analyses of Bach and Chopin, it was the most immersive experience of traditional classical training I had ever had in my life. So instead of celebrating the last night of the program at the bar, my friends and I sought out the farthest thing we could think of from our 2-weeks of fugues and chorales. We had heard of this opera, [*The Navigator*](http://wordpress.redirectingat.com/?id=725X1342&site=lizalimcomposer.wordpress.com&xs=1&isjs=1&url=https%3A%2F%2Fitunes.apple.com%2Fgb%2Fitunes-u%2Felision-ensemble%2Fid588969891%3Fmt%3D10&xguid=a02b5f5c6789f3740de8b6c44572ee3e&xuuid=024e99acbebc1) by Liza Lim. On a cursory click through of the 90-minute online video, we found cross-dressing, firecrackers, baroque instruments, prosthetic genitalia, and some very unfamiliar sounds. Perfect. In a dark dormitory common room that night, we watched Liza Lim’s *The Navigator* on a small laptop screen. My friend brought a liter of Coca-Cola and a handle of Jack Daniel’s whiskey to pair with the experience.

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Teaching
-category: workshops
-permalink: /teaching
+title: Film/Video
+category: film
+permalink: /film
 ---
 <div class="posts-tabular">
 {% for post in site.posts %}
-{% if post.categories contains "workshops"%}
+{% if post.categories contains "film"%}
 <div class="tabular-entry">
   {%- if post.image -%}<img class="tabular-thumbnail" src="{{ site.github.url }}/assets/img/{{ post.image }}" alt="{{ post.title }}">{%- endif -%}
   <div class="tabular-text">
@@ -17,5 +17,3 @@ permalink: /teaching
 {% endif %}
 {% endfor %}
 </div>
-
-

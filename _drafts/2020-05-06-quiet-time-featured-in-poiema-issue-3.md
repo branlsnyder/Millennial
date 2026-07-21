@@ -2,6 +2,7 @@
 layout: post
 title: "'quiet time' featured in Poiema Issue 3"
 category: writings
+tags: [featured]
 ---
 
 Happy to share that my broken-piano-music, "quiet time," is featured in this month's Poiema, a Christian arts publication.

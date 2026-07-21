@@ -3,6 +3,7 @@ layout: post
 title: "*home*"
 subtitle: "sound installation in collaboration with Chantine Akiyama"
 category: composition
+tags: [featured]
 image: IMG_9971.jpg
 ---
 

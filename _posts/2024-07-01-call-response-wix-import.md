@@ -3,7 +3,7 @@ layout: post
 title: "[Wix re-import] Call/Response"
 subtitle: "sound installation with ceramic and arduino"
 category: composition
-tags: [wix-re-import]
+tags: [wix-re-import, featured]
 wix_reimport: true
 ---
 

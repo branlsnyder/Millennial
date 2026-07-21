@@ -3,6 +3,7 @@ layout: post
 title: "P5.Sound Crash Course: JavaScript for Sound Artists"
 subtitle: "**Read the** [**full article**](https://websoundart.org/articles/20231217_tutorial-6-p5sound)**on WebSoundArt**"
 category: writings
+tags: [featured, teaching]
 image: 5332d5_3287fd6965fe4999810fb51c4fe9ec50-mv2.jpg
 ---
 

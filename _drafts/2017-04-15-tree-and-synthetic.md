@@ -3,6 +3,7 @@ layout: post
 title: "tree and synthetic. (breath - stasis ahead one final and forward)"
 subtitle: "prepared alto recorder, prepared violin, styrofoam and cardboard -12'"
 category: composition
+tags: [featured]
 ---
 
 premiered by Faint Noise ([Anna Petrini](http://www.annapetrini.com/), [Karin Helqvist](http://karinhellqvist.com/music/index.html), and [Malin Bång](http://malinbang.com/))

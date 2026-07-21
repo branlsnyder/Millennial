@@ -3,6 +3,7 @@ layout: post
 title: "Give Sound / Receive Sound"
 subtitle: "{: .featured-media}"
 category: performance
+tags: [featured]
 ---
 
 film performance featuring Brandon Lincoln Snyder, Eden Girma, and David Angelo - 24'. Original piece by Pauline Oliveros

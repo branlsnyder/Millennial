@@ -19,8 +19,8 @@ title: Home
 </div>
 
 <div class="posts-grid">
-  {% for post in paginator.posts %} {% unless post.tags contains "homeExclude"
-  %} {% include featured-post.html %} {% endunless %} {% endfor %}
+  {% for post in paginator.posts %} {% if post.tags contains "featured"
+  %} {% include featured-post.html %} {% endif %} {% endfor %}
 </div>
 
 <!-- Pagination links -->

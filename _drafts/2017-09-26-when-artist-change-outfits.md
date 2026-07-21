@@ -3,7 +3,7 @@ layout: post
 title: "When Artist Change Outfits"
 subtitle: "*This word originally appeared in my Fall 2017 Harvard Crimson column, 'Difference Tones,' which can be found here.*"
 category: writings
-tags: [Harvard, column]
+tags: [Harvard, column, featured]
 ---
 
 A temple draws us to God, and a kitchen draws us to the stove. What is our gaze directed to when we step into the sonic space of music? We often conceive of space as a parameter we inhabit. However, space inhabits us as much as we inhabit it. For example, it only makes sense that the organization of a Harvard student’s dorm room is such that the desk, bed, and drawer the most accessible parts of the room. Thus, in the creation of the dorm room, the space inherently draws the student towards that desk, bed, and drawer.

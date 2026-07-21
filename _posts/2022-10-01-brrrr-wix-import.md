@@ -3,7 +3,7 @@ layout: post
 title: "[Wix re-import] brrrr"
 subtitle: "snare drum and delay pedal"
 category: composition
-tags: [wix-re-import]
+tags: [wix-re-import, featured]
 wix_reimport: true
 ---
 

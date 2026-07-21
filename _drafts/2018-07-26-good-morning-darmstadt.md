@@ -3,7 +3,7 @@ layout: post
 title: "Good Morning Darmstadt"
 subtitle: "Here are a choice selection of those items which I have been able to take part in:"
 category: writings
-tags: [Podcast, Darmstadt, Review]
+tags: [Podcast, Darmstadt, Review, featured]
 image: 5332d5_a861203f93b14093b56278a18e47b26b-mv2_d_3264_1592_s_2.jpg
 ---
 

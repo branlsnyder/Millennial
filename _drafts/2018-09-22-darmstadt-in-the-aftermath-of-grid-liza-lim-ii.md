@@ -3,7 +3,7 @@ layout: post
 title: "Darmstadt in the Aftermath of GRID | (Liza Lim II)"
 subtitle: "Figure 1: Compositions performed by Female and Male Composers from 1946-2014 (Fure, GRID)"
 category: writings
-tags: [interview, Darmstadt, Liza Lim, Gender]
+tags: [interview, Darmstadt, Liza Lim, Gender, featured]
 image: 5332d5_6e0943e396704d01a8530be7a6994ecf-mv2.png
 ---
 

@@ -7,7 +7,7 @@ permalink: /improvisation
 
 <div class="posts-grid">
 {% for post in site.posts %}
-{% if post.category == "performance"%}
+{% if post.categories contains "performance"%}
 {% include featured-post.html %}
 {% endif %}
 {% endfor %}

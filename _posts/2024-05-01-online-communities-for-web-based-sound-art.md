@@ -2,6 +2,7 @@
 layout: post
 title: "Online Communities for Web-Based Sound Art"
 category: writings
+tags: [featured]
 image: 5332d5_1170d341eda04050a49032e74a870359-mv2.jpg
 ---
 

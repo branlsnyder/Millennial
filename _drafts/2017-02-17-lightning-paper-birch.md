@@ -3,6 +3,7 @@ layout: post
 title: "Lightning | Paper Birch"
 subtitle: "for flute, alto saxophone, and piano - 14'"
 category: composition
+tags: [featured]
 ---
 
 Premiered by Ashley Addington (fl.),  Bennett Parsons (sax.), and Angela Kim (pno.)

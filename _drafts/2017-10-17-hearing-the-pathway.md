@@ -3,7 +3,7 @@ layout: post
 title: "Hearing the Pathway"
 subtitle: "*This word originally appeared in my Fall 2017 Harvard Crimson column, 'Difference Tones,' which can be found* *here.*"
 category: writings
-tags: [Harvard, column, interview]
+tags: [Harvard, column, interview, featured]
 ---
 
 One of my favorite pieces of music is a short text by viola player and writer Martine Thomas ’18. The piece is titled “path”:

@@ -2,6 +2,7 @@
 layout: post
 title: "Interactive Web Sound Art - WebSoundArt (1/5)"
 category: writings
+tags: [featured]
 image: 5332d5_e38d2ac10bad4cb8ba46dea6969320bd-mv2.jpg
 ---
 

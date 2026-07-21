@@ -3,7 +3,7 @@ layout: post
 title: "[Wix re-import] The Problem(s) of Deer"
 subtitle: "poetry and live electronics"
 category: performance
-tags: [wix-re-import]
+tags: [wix-re-import, featured]
 wix_reimport: true
 ---
 

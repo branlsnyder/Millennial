@@ -3,6 +3,7 @@ layout: post
 title: "Sights and Sounds of Home: an experimental conversation between seeing and hearing in architecture"
 subtitle: "sound installation in collaboration with Chantine Akiyama"
 category: composition
+tags: [featured]
 image: 04-20--20Brandon-20Lincoln-20Snyder-20--20Piece-20Foll.jpg
 ---
 

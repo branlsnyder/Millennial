@@ -3,7 +3,7 @@ layout: post
 title: "Spectator Sport"
 subtitle: "Opera for Guest Performers"
 category: composition
-tags: [live electronics, conceptual, video, veejay]
+tags: [live electronics, conceptual, video, veejay, featured]
 image: brrrr-thumbnail.png
 ---
 <iframe src="https://www.youtube.com/embed/GewUA3YbLxM?si=yB_zTjEB5SwiTiqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
