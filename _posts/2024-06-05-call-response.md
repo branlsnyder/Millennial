@@ -11,12 +11,14 @@ image: call-response-1.jpg
 
 Sound installation with ceramic and arduino. Collaboration with Michelle Chun.
 
-In *Call/Response* We thought about bells as instruments of beckoning or calling in--especially in regard to "calls to prayer". We outfitted 6 ceramic "soundless bells" with mini-speakers hooked to tiny breadboards, which play a 6-channel audio track. The metaphor of a "soundless bell" provokes in us thoughts of unanswered prayers, unspoken desires, and a constant inner calling out to call in--a need for an other. Each bell "pings", "clinks", and "roars", sometimes on their own, sometimes together, and sometimes in a halted, stuttering manner. 
+In *Call/Response*, we thought about bells as instruments of beckoning or calling in--especially in regard to "calls to prayer". We outfitted 6 ceramic "soundless bells" with mini-speakers hooked to tiny breadboards, which play a 6-channel audio track. The metaphor of a "soundless bell" provokes in us thoughts of unanswered prayers, unspoken desires, and a constant inner calling out to call in--a need for an other. Each bell "pings", "clinks", and "roars", sometimes on their own, sometimes together, and sometimes in a halted, stuttering manner. 
 
 
-​<img src="assets/img/call-response-2.jpg">
-​<img src="assets/img/call-response-3.jpg">
-​<img src="assets/img/call-response-4.jpg">
-​<img src="assets/img/call-response-5.jpg">
-​<img src="assets/img/call-response-6.jpg">
+<div class="image-grid" markdown="0">
+  <img src="assets/img/call-response-3.jpg">
+  <img src="assets/img/call-response-5.jpg">
+  <img src="assets/img/call-response-2.jpg">
+  <img src="assets/img/call-response-4.jpg">
+  <img src="assets/img/call-response-6.jpg">
+</div>
 

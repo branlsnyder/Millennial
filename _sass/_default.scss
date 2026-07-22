@@ -48,3 +48,28 @@
   width: 100%;   // optional—block elements already do this
 }
 
+#scroll-sentinel {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+  min-height: 60px;
+}
+
+.loading-spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid rgba(0, 0, 0, 0.1);
+  border-top-color: #333;
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.scroll-error {
+  color: #666;
+  font-style: italic;
+}
+

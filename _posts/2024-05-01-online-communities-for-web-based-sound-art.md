@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Online Communities for Web-Based Sound Art"
+subtitle: Essay for WebSoundArt
 category: writings
 tags: [featured]
 image: 5332d5_1170d341eda04050a49032e74a870359-mv2.jpg
@@ -8,8 +9,6 @@ image: 5332d5_1170d341eda04050a49032e74a870359-mv2.jpg
 
 <img src="assets/img/5332d5_1170d341eda04050a49032e74a870359-mv2.jpg" alt="Online Communities for Web-Based Sound Art">
 {: .featured-media}
-
-<img src="assets/img/5332d5_1170d341eda04050a49032e74a870359-mv2.jpg" alt="">
 
 The web-based sound art scene is relatively fragmented. There is no singular platform, forum, or other online community where a majority of such artists congregate. Even considering “web-based sound art” as a label, [**net.art**](http://net.art), [**internet art**](https://www.artforum.com/features/web-work-a-history-of-internet-art-2-162477/), [**born-digital art**](https://rhizome.org/), [**creative coding**](https://openprocessing.org/), [**live coding**](https://en.wikipedia.org/wiki/Live_coding), and [**algorave**](https://algorave.com/) all are also labels used by communities that create and exchange this work.
 
