@@ -4,7 +4,7 @@ title: "Solo Set at Line Upon Line 2025"
 subtitle: "Self-built Midi Piano Instrument"
 category: performance
 tags: [live electronics, improvisation, midi piano, featured]
-image: 
+image: lul-set-thumb.png
 ---
 <iframe src="https://www.youtube.com/embed/VbXUPjxiUB0?si=Xf_0Rwtqf9Yk5aHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {: .featured-media}
