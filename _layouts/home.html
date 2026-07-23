@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+
+
 <div class="home-salutation-group">
   <!-- <h1>Composer, Performer, Media Artist</h1> -->
   <p>
@@ -40,6 +42,8 @@ title: Home
     const imgA = "assets/img/headshot-bare-1.png";
     const imgB = "assets/img/headshot-bare-2.png";
     let toggleCount = 0;
+    let maxAmplitude = 10;
+    let startTime = performance.now();
 
     function toggleImage() {
       if (toggleCount >= 20) return;
@@ -48,10 +52,21 @@ title: Home
       if (toggleCount === 20) img.src = "assets/img/smore-thumb.jpg";
     }
 
-    // Use both click and touchstart for better cross-platform support
-    img.addEventListener("click", toggleImage);
+    function animateHue(now) {
+      const elapsed = now - startTime;
+      const angle = maxAmplitude * (1 + Math.sin(elapsed * 0.00209)) / 2;
+      img.style.filter = "hue-rotate(" + angle + "deg)";
+      requestAnimationFrame(animateHue);
+    }
+    requestAnimationFrame(animateHue);
+
+    img.addEventListener("click", () => {
+      maxAmplitude *= 1.5;
+      toggleImage();
+    });
     img.addEventListener("touchstart", (e) => {
-      e.preventDefault(); // Prevent the click event from firing after touchstart
+      e.preventDefault();
+      maxAmplitude *= 1.5;
       toggleImage();
     });
 
