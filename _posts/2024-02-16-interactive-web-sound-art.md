@@ -3,7 +3,7 @@ layout: post
 title: "Interactive Web Sound Art"
 subtitle: Essay for WebSoundArt
 category: writings
-tags: [featured]
+tags: [web art]
 image: 5332d5_e38d2ac10bad4cb8ba46dea6969320bd-mv2.jpg
 ---
 

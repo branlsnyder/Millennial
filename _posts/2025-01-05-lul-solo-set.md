@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Solo Set at Line Upon Line 2025"
-subtitle: "Self-built Midi Piano Instrument"
+title: "Live at lineuponline Festival"
+subtitle: "Laptop Performance"
 category: performance
 tags: [live electronics, improvisation, midi piano, featured]
 image: lul-set-thumb.png
 ---
-<iframe src="https://www.youtube.com/embed/VbXUPjxiUB0?si=Xf_0Rwtqf9Yk5aHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-{: .featured-media}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lqlncH7H8LM?si=Uoguzap5s3aWeAxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Self-built Midi Piano Instrument
 
