@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Live at The Sanctuary Studios"
-subtitle: "Noise Set with Jeonghyeon Joo and Xuanqi Liu"
+subtitle: "with Jeonghyeon Joo (Heageum) and Xuanqi Liu (Laptop)"
 category: performance
 tags: [live electronics, improvisation, noise, featured]
 image: joo-xuanqi-sanctuary-thumb.webp

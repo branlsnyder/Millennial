@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Music Theory for Producers"
-subtitle: "Music Theory Course for the New York Public Library"
+subtitle: "Instructor, Curriculum Designer - Music Theory Course for the New York Public Library"
 category: workshops
 tags: [teaching]
 image: music-theory-nypl-1.jpg
