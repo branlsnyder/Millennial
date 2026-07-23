@@ -16,8 +16,8 @@
 
 .home-image {
   height: clamp(200px, 15vw, 250px);
-  width: auto;
-  object-fit: cover;
+  width: clamp(200px, 15vw, 250px);
+  object-fit: contain;
   object-position: right;
   transform-origin: center;
   animation: gentle-rotate 3s infinite ease-in-out;
