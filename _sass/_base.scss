@@ -46,7 +46,13 @@ body img {
   align: middle;
   margin: 5px auto auto auto;
   display: block;
-  max-width: 600px;
+  max-width: 400px;
+}
+@media (min-width: 1000px) {
+  body img {
+    float: right;
+    margin: 0 0 1rem 1.5rem;
+  }
 }
 
 p {

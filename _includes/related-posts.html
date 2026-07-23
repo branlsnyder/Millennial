@@ -14,8 +14,15 @@
                     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
                   {% endif %}
                 </div>
-                <div class="related-title">
-                  {{ mypost.title }}
+                <div class="related-text">
+                  <div class="related-title">
+                    {{ mypost.title }}
+                  </div>
+                  {% if mypost.subtitle %}
+                    <div class="related-subtitle">
+                      {{ mypost.subtitle }}
+                    </div>
+                  {% endif %}
                 </div>
                 <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
               </a>

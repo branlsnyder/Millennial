@@ -19,25 +19,20 @@ title: Home
 </div>
 
 <div class="posts-grid">
-  {% for post in paginator.posts %} {% unless post.tags contains "homeExclude"
-  %} {% include featured-post.html %} {% endunless %} {% endfor %}
+  {% for post in paginator.posts %} {% if post.tags contains "featured"
+  %} {% include featured-post.html %} {% endif %} {% endfor %}
 </div>
 
-<!-- Pagination links -->
-<!-- <div class="pagination">
-  {% if paginator.next_page %}
-  <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{
-    site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-  <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-  <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{
-    site.data.settings.pagination.next_page }}</a>
-  {% else %}
-  <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div> -->
+<div id="scroll-sentinel"></div>
+
+<script>
+  window.__paginator = {
+    currentPage: {{ paginator.current_page | default: 1 }},
+    totalPages: {{ paginator.total_pages | default: 1 }},
+    baseUrl: "{{ site.github.url | default: '' }}"
+  };
+</script>
+<script src="{{ site.github.url }}/assets/js/infinite-scroll.js" defer></script>
 
 <script>
   document.addEventListener("DOMContentLoaded", () => {

@@ -3,8 +3,8 @@ layout: post
 title: "Music Theory for Producers"
 subtitle: "Music Theory Course for the New York Public Library"
 category: workshops
-tags: [teaching, homeExclude]
-image: music-theory-nypl.jpg
+tags: [teaching]
+image: music-theory-nypl-1.jpg
 ---
 <img src="assets/img/music-theory-nypl-1.jpg" alt="Music Theory for Producers at NYPL">
 {: .featured-media}

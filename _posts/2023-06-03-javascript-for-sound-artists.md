@@ -3,7 +3,7 @@ layout: post
 title: "JavaScript for Sound Artists"
 subtitle: "6-Week Online Course"
 category: workshops
-tags: [web audio, Browser Sound]
+tags: [web audio, Browser Sound, featured]
 image: logo-browser-sound.png
 ---
 <img src="assets/img/logo-browser-sound.png" alt="Browser Sound">

@@ -2,7 +2,9 @@
 layout: post
 title: "Music About Music About Background Music - II"
 subtitle: "two performers, keyboardist, spoken word, violin, electronics, and video- 18'"
-category: performance
+categories: [film, composition]
+tags: [featured]
+image: music-about-music-about-background-music-thumb.png
 ---
 
 by Brandon Lincoln Snyder, Delia Ramos Rodríguez, and Alex Waite
