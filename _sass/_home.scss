@@ -15,7 +15,7 @@
 }
 
 .home-image {
-  height: 15vw;
+  height: clamp(200px, 15vw, 250px);
   width: auto;
   object-fit: cover;
   object-position: right;

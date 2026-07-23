@@ -3,7 +3,7 @@ layout: post
 title: "Will NFTs Actually Help Artists Make Money? Royalties and Smart Contracts"
 subtitle: Essay for WebSoundArt
 category: writings
-tags: [featured]
+tags: [web art]
 image: 5332d5_3f8883becdee40c8a81d27e0c5d5bb17-mv2.jpg
 ---
 
