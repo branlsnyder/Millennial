@@ -4,7 +4,7 @@ title: "Winter Ceremony"
 subtitle: "Short Film by Sidi Wang - 14'"
 category: film
 tags: [featured]
-image: winter-ceremony-thumb.png
+image: winter-ceremony-thumb.webp
 ---
 During their daughter's college graduation in Texas, divorced Chinese parents briefly reunite. As old feelings and unspoken words hover in the air, the three navigate complex family dynamics while living separately.
 

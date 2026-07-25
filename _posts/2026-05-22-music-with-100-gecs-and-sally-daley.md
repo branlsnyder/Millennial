@@ -4,7 +4,7 @@ title: "Music with Sally Daley and 100 Gecs"
 subtitle: "Solo Laptop Performance"
 category: performance
 tags: [live electronics, improvisation, diffusion, featured]
-image: sally-daley-thumb-1.png
+image: sally-daley-thumb-1.webp
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gjaPx9wix0?si=QTMRgOXX-oMI2F0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
