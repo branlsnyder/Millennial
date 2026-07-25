@@ -5,17 +5,18 @@ title: Home
 
 <div class="home-salutation-group">
   <!-- <h1>Composer, Performer, Media Artist</h1> -->
-  <p>
-    Hi! I'm a composer, laptop improviser, and media artist based in Irvine, California. I make avant garde music and collaborate with musicians, visual artists, poets, filmmakers, and researchers.
-    <br /><br />
-    Broadly speaking, I am interested in the meanings of creativity in the context of technology. Currently in my PhD at UC Irvine, I focus on laptop aesthetics, musical instrument design, and music's intersection with capital.
-  </p>
   <img
     id="home-headshot"
     class="home-image"
     src="assets/img/headshot-bare-1.png"
     alt="Brandon Lincoln Woo Snyder"
+    decoding="async"
   />
+  <p>
+    Hi! I'm a composer, laptop improviser, and media artist based in Irvine, California. I make avant garde music and collaborate with musicians, visual artists, poets, filmmakers, and researchers.
+    <br /><br />
+    Broadly speaking, I am interested in the meanings of creativity in the context of technology. Currently in my PhD at UC Irvine, I focus on laptop aesthetics, musical instrument design, and music's intersection with capital.
+  </p>
 </div>
 
 <div class="posts-grid">
@@ -48,25 +49,10 @@ title: Home
       if (toggleCount === 20) img.src = "assets/img/smore-thumb.jpg";
     }
 
-    // Use both click and touchstart for better cross-platform support
     img.addEventListener("click", toggleImage);
     img.addEventListener("touchstart", (e) => {
-      e.preventDefault(); // Prevent the click event from firing after touchstart
+      e.preventDefault();
       toggleImage();
     });
-
-    setTimeout(toggleImage, 5000);
-    setTimeout(toggleImage, 7000);
-    setTimeout(toggleImage, 7020);
-    setTimeout(toggleImage, 7040);
-    setTimeout(toggleImage, 15000);
-    setTimeout(toggleImage, 16000);
-    setTimeout(toggleImage, 16700);
-    setTimeout(toggleImage, 17700);
-    setTimeout(toggleImage, 17750);
-    setTimeout(toggleImage, 17800);
-    setTimeout(toggleImage, 17850);
-    setTimeout(() => { img.src = "assets/img/library-lion-1.png"; }, 17900);
-    setTimeout(() => { img.src = "assets/img/bad-headshot-1.png"; }, 18500);
   });
 </script>
