@@ -90,8 +90,20 @@
 .featured-post-card:hover .featured-post-img {
   filter: blur(3px);
 }
+.featured-post-card:hover .featured-post-overlay {
+  opacity: 1;
+}
 .featured-post-card:hover .featured-post .post-content {
   opacity: 1;
+}
+
+.featured-post-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.65);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
 }
 
 .featured-post h2,
@@ -154,6 +166,10 @@
   }
 
   .featured-post-card .post-subtitle {
+    opacity: 1;
+  }
+
+  .featured-post-overlay {
     opacity: 1;
   }
 
