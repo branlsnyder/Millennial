@@ -49,6 +49,21 @@ title: Home
       if (toggleCount === 20) img.src = "assets/img/smore-thumb.jpg";
     }
 
+
+    setTimeout(toggleImage, 5000);
+    setTimeout(toggleImage, 7000);
+    setTimeout(toggleImage, 7020);
+    setTimeout(toggleImage, 7040);
+    setTimeout(toggleImage, 15000);
+    setTimeout(toggleImage, 16000);
+    setTimeout(toggleImage, 16700);
+    setTimeout(toggleImage, 17700);
+    setTimeout(toggleImage, 17750);
+    setTimeout(toggleImage, 17800);
+    setTimeout(toggleImage, 17850);
+    setTimeout(() => { img.src = "assets/img/library-lion-1.png"; }, 17900);
+    setTimeout(() => { img.src = "assets/img/bad-headshot-1.png"; }, 18500);
+
     img.addEventListener("click", toggleImage);
     img.addEventListener("touchstart", (e) => {
       e.preventDefault();
