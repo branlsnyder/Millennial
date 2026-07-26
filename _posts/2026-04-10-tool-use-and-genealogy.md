@@ -19,4 +19,4 @@ This paper proposes a theoretical framework for authorship that better reflects 
   <iframe src="https://docs.google.com/presentation/d/15cbwK2I-zMdfOHvT-2pnHSXxtXT2-SqHvPLSLEcVgos/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-![MSI Forum Flyer]({{ site.github.url }}/assets/img/MSI-Forum-Flyer.avif)
+![MSI Forum Flyer]({{ site.url }}/assets/img/MSI-Forum-Flyer.avif)

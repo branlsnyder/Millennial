@@ -30,10 +30,10 @@ title: Home
   window.__paginator = {
     currentPage: {{ paginator.current_page | default: 1 }},
     totalPages: {{ paginator.total_pages | default: 1 }},
-    baseUrl: "{{ site.github.url | default: '' }}"
+    baseUrl: "{{ site.url | default: '' }}"
   };
 </script>
-<script src="{{ site.github.url }}/assets/js/infinite-scroll.js" defer></script>
+<script src="{{ site.url }}/assets/js/infinite-scroll.js" defer></script>
 
 <script>
   document.addEventListener("DOMContentLoaded", () => {

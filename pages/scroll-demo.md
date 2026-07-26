@@ -141,7 +141,7 @@ permalink: /scroll-demo
 
 <figure>
   <div class="scroll-card scroll-card-perspective">
-    <img src="{{ site.github.url }}/assets/img/bppbch-thumbnail-2.jpg" alt="Bppbch">
+    <img src="{{ site.url }}/assets/img/bppbch-thumbnail-2.jpg" alt="Bppbch">
     <div class="scroll-rod-bottom"></div>
     <div class="scroll-card-content">
       <h3>Bppbch</h3>
@@ -153,7 +153,7 @@ permalink: /scroll-demo
 
 <figure>
   <div class="scroll-card scroll-card-curl">
-    <img src="{{ site.github.url }}/assets/img/brrrr-thumbnail.png" alt="brrrr">
+    <img src="{{ site.url }}/assets/img/brrrr-thumbnail.png" alt="brrrr">
     <div class="scroll-rod-bottom"></div>
     <div class="scroll-card-content">
       <h3>brrrr</h3>
@@ -165,7 +165,7 @@ permalink: /scroll-demo
 
 <figure>
   <div class="scroll-card scroll-card-perspective scroll-card-parchment">
-    <img src="{{ site.github.url }}/assets/img/library-lion-1.png" alt="Library Lion">
+    <img src="{{ site.url }}/assets/img/library-lion-1.png" alt="Library Lion">
     <div class="scroll-rod-bottom"></div>
     <div class="scroll-card-content">
       <h3>About</h3>
@@ -177,7 +177,7 @@ permalink: /scroll-demo
 
 <figure>
   <div class="scroll-card scroll-card-perspective scroll-card-curl scroll-card-parchment">
-    <img src="{{ site.github.url }}/assets/img/headshot-bare-1.png" alt="Headshot">
+    <img src="{{ site.url }}/assets/img/headshot-bare-1.png" alt="Headshot">
     <div class="scroll-rod-bottom"></div>
     <div class="scroll-card-content">
       <h3>Headshot</h3>
