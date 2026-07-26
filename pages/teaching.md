@@ -8,9 +8,9 @@ permalink: /teaching
 {% for post in site.posts %}
 {% if post.categories contains "workshops"%}
 <div class="tabular-entry">
-  {%- if post.image -%}<img class="tabular-thumbnail" src="{{ site.github.url }}/assets/img/{{ post.image }}" alt="{{ post.title }}">{%- endif -%}
+  {%- if post.image -%}<img class="tabular-thumbnail" src="{{ site.url }}/assets/img/{{ post.image }}" alt="{{ post.title }}">{%- endif -%}
   <div class="tabular-text">
-    <h3><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h3>
+    <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
     <p>{{ post.date | date: "%Y" }}{%- if post.subtitle -%} — {{ post.subtitle }}{%- endif -%}</p>
   </div>
 </div>

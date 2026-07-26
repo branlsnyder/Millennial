@@ -1,4 +1,5 @@
 # Site Build Settings
+url:                    "https://brandonlincolnsnyder.com"
 
 # jekyll-paginate configuration
 paginate:            10
