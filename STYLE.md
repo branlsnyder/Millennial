@@ -29,7 +29,7 @@ table, th, td {
 |---|---|
 | `.site-header` | `background-color: #1a1a1a; box-shadow: 0 5px 6px -6px #444;` |
 | `.dropbtn` | `background-color: #1a1a1a; color: white;` |
-| `.dropdown-content` | `background-color: #2a2a2a;` |
+| `.dropdown-content` | `background-color: #1a1a1a;` |
 | `.dropdown-content a` | `color: white;` |
 | `.dropdown-content a:hover` | `background-color: #3a3a3a;` |
 | `.dropdown:hover .dropbtn` | `background-color: #3a3a3a;` |
@@ -38,7 +38,7 @@ table, th, td {
 | Selector | Change to |
 |---|---|
 | `.footer` | `background: #1a1a1a;` |
-| `.footer-description` | `color: #777;` |
+| `.footer-description` | `color: #aaa;` |
 
 ### `_sass/_home.scss`
 | Selector | Change to |
@@ -50,25 +50,25 @@ table, th, td {
 | Selector | Change to |
 |---|---|
 | `a.pdf-button` | `border: 1px solid #666; color: #fff;` |
-| `a.pdf-button:hover` | `background: #2a2a2a;` |
-| `.tabular-entry p` | `color: #999;` |
+| `a.pdf-button:hover` | `background: #1a1a1a;` |
+| `.tabular-entry p` | `color: #aaa;` |
 
 ### `_sass/_default.scss`
 | Selector | Change to |
 |---|---|
 | `.loading-spinner` | `border: 3px solid rgba(255, 255, 255, 0.1); border-top-color: #fff;` |
-| `.scroll-error` | `color: #999;` |
+| `.scroll-error` | `color: #aaa;` |
 
 ### `_sass/_post.scss`
 | Selector | Change to |
 |---|---|
-| `.post-date` | `color: #777;` |
+| `.post-date` | `color: #aaa;` |
 
 ### `_sass/_code.scss`
 | Selector | Change to |
 |---|---|
-| `code` | `background-color: #2a2a2a;` |
-| `pre` | `background-color: #2a2a2a;` |
+| `code` | `background-color: #1a1a1a;` |
+| `pre` | `background-color: #1a1a1a;` |
 
 ### `assets/css/syntax.css`
 Use the dark-themed syntax file (current contents — muted, high-contrast colors for `#000` background).
