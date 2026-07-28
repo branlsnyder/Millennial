@@ -5,6 +5,8 @@ permalink: /about
 
 ---
 
+<img class="about-image" src="assets/img/library-lion-1.png" alt="Brandon Lincoln Woo Snyder">
+
 Brandon Woo Snyder (he/him) is a composer and educator interested in the cultural impact of digital technology on the performing arts.
 
 His music has been performed by the SWR Vokalensemble, line upon line, and Ensemble Aventure, and at spaces including IRCAM, impuls, and the Jack Straw Cultural Center. He has taught music and technology literacy for the New York Public Library, the Institute for Music Informatics and Musicology at Karlsruhe Conservatory, and Browser Sound, a web-art festival he founded and ran from 2020-2024.
@@ -13,6 +15,4 @@ He received a masters in music composition at the Hochschule für Musik und Dars
 
 He is currently pursuing his PhD in Integrated Composition, Improvisation, and Technology at UC Irvine.
 
-<a href="assets/pdfs/CV_26_05_2026.pdf">C. V.</a>
-
-<img src="assets/img/library-lion-1.png" alt="Brandon Lincoln Woo Snyder">
+<a class="pdf-button" href="assets/pdfs/CV_26_05_2026.pdf">Curriculum Vitae</a>
