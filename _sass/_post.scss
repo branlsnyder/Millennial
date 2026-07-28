@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+
 .post-content {
   // width: 600px;
   width: 90%;
@@ -7,7 +9,7 @@
 .post-date {
   display: block;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #aaa;
   font-size:0.8rem;
 }
 .featured-image img {
@@ -163,3 +165,14 @@ p.featured-media {
     margin: 0 0 1rem 0;
   }
 }
+
+.keywordp  { color: #edb2f1; }
+.keywordo  { color: #fab283; }
+.keywordg  { color: #00ceb9; }
+.keywordb  { color: #8cb0ff; }
+.keywordy  { color: #fcd53a; }
+.keywordc  { color: #93e9f6; }
+.keywordgr { color: #8f8f8f; }
+.keywordr  { color: #fc533a; }
+a[class^="keyword"], a[class*=" keyword"] { text-decoration: none; }
+[class*="keyword"]:hover { font-family: "Jacquard 12", system-ui; font-size: 1.13em; line-height:0.9em; }
