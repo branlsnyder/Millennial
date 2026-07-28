@@ -3,7 +3,7 @@ layout: post
 title: "Music About Music About Background Music - II"
 subtitle: "two performers, keyboardist, spoken word, violin, electronics, and video- 18'"
 categories: [film, composition]
-tags: [featured]
+tags: [featured, media art]
 image: music-about-music-about-background-music-thumb.png
 ---
 
