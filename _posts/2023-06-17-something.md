@@ -6,7 +6,8 @@ category: [composition, film]
 tags: [Browser Sound, featured, web audio, media art]
 image: something-thumb.png
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mNr4ldEvnIk?si=GkFDA7Yzajj9x6_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mNr4ldEvnIk?si=GkFDA7Yzajj9x6_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{: .featured-media}
 
 'something' is a 1-month-long social media performance, where a quartet of remote musicians post and respond to each other's instagram reels, as well as record reactions and commentary from friends and strangers. 
 
