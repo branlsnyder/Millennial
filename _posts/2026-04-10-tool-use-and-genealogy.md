@@ -7,7 +7,7 @@ tags: [AI, featured]
 image: MSI-Forum-Flyer.avif
 ---
 
-Presentation at **Music And AI: Creativity, Labor, and Power** hosted by the Music Sustainabiltiy Forum.
+Presentation at **Music And AI: Creativity, Labor, and Power** hosted by the Music Sustainability Forum.
 
 ## Abstract
 

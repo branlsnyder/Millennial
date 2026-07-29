@@ -84,7 +84,7 @@ These are **new** posts (not duplicates):
 - `2017-04-15-tree-and-synthetic.md`
 - `2018-04-08-give-sound-receive-sound-wix-import.md` — note: no prior post; filename kept from script run
 - `2018-05-08-taste-the-rain.md`
-- `2019-02-25-sights-and-sounds-of-home-an-experimental-conversation-betwe.md`
+- `2019-02-25-sights-and-sounds-of-home-an-experimental-conversation-between.md`
 - `2019-05-01-sound-installation-home.md` (*home*)
 - `2020-07-16-milk-bubbles.md`
 - `2020-11-13-musicaboutii.md`
@@ -155,12 +155,12 @@ These exist only on the new site (added after or not on old Wix works list):
 | `2018-05-31-earbuds-and-worldbuilding.md` | writings |
 | `2018-07-26-good-morning-darmstadt.md` | writings |
 | `2018-08-21-losing-my-uniqueness.md` | writings |
-| `2018-09-08-the-fuzzy-boundary-between-myself-new-music-and-cola-whiskey.md` | writings |
+| `2018-09-08-the-fuzzy-boundary-betweenen-myself-new-music-and-cola-whiskey.md` | writings |
 | `2018-09-22-darmstadt-in-the-aftermath-of-grid-liza-lim-ii.md` | writings |
 | `2018-10-20-collaborative-composition-liza-lim-iii.md` | writings |
 | `2018-12-10-a-gradual-process-an-mec-original.md` | writings |
-| `2019-02-25-sights-and-sounds-of-home-an-experimental-conversation-betwe.md` | composition |
-| `2019-04-03-leading-me-an-audio-essay-for-between-lands.md` | writings |
+| `2019-02-25-sights-and-sounds-of-home-an-experimental-conversation-between.md` | composition |
+| `2019-04-03-leading-me-an-audio-essay-for-betweenen-lands.md` | writings |
 | `2019-04-07-difference-tones-april-2019.md` | writings |
 | `2019-05-10-did-i-steward-authority-well-difference-tones-may-2019.md` | writings |
 | `2019-06-13-why-i-moved-to-germany-difference-tones-june-2019.md` | writings |
