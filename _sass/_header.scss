@@ -28,6 +28,11 @@
   margin-top: 0;
   padding-left: 10px;
   float: left;
+
+  a:hover {
+    font-family: "Jacquard 12", system-ui;
+    line-height:0.9em;
+  }
 }
 .menu-list {
   line-height: $header-thickness;
