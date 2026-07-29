@@ -6,7 +6,8 @@ category: performance
 tags: [live electronics, improvisation, diffusion, featured]
 image: sally-daley-thumb-1.webp
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0gjaPx9wix0?si=QTMRgOXX-oMI2F0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0gjaPx9wix0?si=QTMRgOXX-oMI2F0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{: .featured-media}
 
 Live concatenative synthesis featuring music by Sally Daley and 100 Gecs. This instrument is driven by concatenative synthesis using Data Knot in Max MSP, as well as diffusion synthesis with Stable Audio Open, which is performing some experimental corpus-augmentation ideas I've been working on.
 
@@ -25,11 +26,14 @@ I sampled Sally Daley’s music as a way to intertwine myself with her. Sampling
 
 ## Excerpts 
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/MlXnOBcRFEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/MlXnOBcRFEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{: .short-embed}
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/olHvc4pko08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/olHvc4pko08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{: .short-embed}
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/0ragJNiwhPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0ragJNiwhPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{: .short-embed}
 
 
 

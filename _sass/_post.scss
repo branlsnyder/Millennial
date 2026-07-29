@@ -157,6 +157,18 @@ p.featured-media {
   margin-top: 0;
 }
 
+.short-embed {
+  border: 3px solid #fc533a;
+  margin: 3px;
+}
+
+iframe.short-embed {
+  display: inline-block;
+  height: 72vh;
+  aspect-ratio: 9 / 16;
+}
+
+
 @media (max-width: $tablet-width) {
   .featured-media {
     float: none;

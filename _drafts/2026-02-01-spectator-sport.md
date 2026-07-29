@@ -16,10 +16,11 @@ In *brrrr*, the percussionist repeatedly plays a simple 6-stroke roll, and contr
 Written for Tamara Kurkiewicz
 
 
-<iframe width="315" height="560"
+<iframe
 src="https://www.youtube.com/embed/rw_XNeq5YQA"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
+{: .short-embed}
 
