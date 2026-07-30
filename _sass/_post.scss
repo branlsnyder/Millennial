@@ -168,6 +168,13 @@ iframe.short-embed {
   aspect-ratio: 9 / 16;
 }
 
+iframe.small {
+  display: inline-block;
+  max-width: 100vh;
+  height: auto;
+  aspect-ratio: 11 / 9;
+}
+
 
 @media (max-width: $tablet-width) {
   .featured-media {

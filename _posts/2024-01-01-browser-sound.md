@@ -3,7 +3,7 @@ layout: post
 title: "Browser Sound"
 subtitle: "Festival for Web-Based Sound Art"
 category: workshops
-tags: [featured]
+tags: [featured, media art]
 image: logo-browser-sound.png
 ---
 
