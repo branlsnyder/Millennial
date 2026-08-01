@@ -11,7 +11,7 @@ permalink: /teaching
 <span class="keywordrand">Algorithmic Composition</span>,
 <span class="keywordrand">Web Audio</span>,
 <span class="keywordrand">Internet Art</span>,
-<span class="keywordrand">Western Classical Music Theory</span>,
+<span class="keywordrand">Music Theory</span>,
 <span class="keywordrand">Post Tonal Theory</span>,
 <span class="keywordrand">HTML+CSS+JavaScript</span>,
 <span class="keywordrand">Instrument Design</span>,
