@@ -49,8 +49,6 @@ table, th, td {
 ### `_sass/_page.scss`
 | Selector | Change to |
 |---|---|
-| `a.pdf-button` | `border: 1px solid #666; color: #fff;` |
-| `a.pdf-button:hover` | `background: #1a1a1a;` |
 | `.tabular-entry p` | `color: #aaa;` |
 
 ### `_sass/_default.scss`
@@ -63,6 +61,12 @@ table, th, td {
 | Selector | Change to |
 |---|---|
 | `.post-date` | `color: #aaa;` |
+| `.action-button` | `background: #fff; color: #000; border: 1px solid #fff; border-radius: 2px;` |
+| `.action-button:hover` | `background: #000; color: #fff;` |
+| `.newsletter-form` | `border: 1px solid #555; border-radius: 4px;` |
+| `.newsletter-form input[type="text"], input[type="email"]` | `color: #fff; background: transparent; border: 1px solid #555;` |
+| `.newsletter-form input::placeholder` | `color: #888;` |
+| `.newsletter-form button` | `background: #fff; color: #000; border: 1px solid #fff;` |
 
 ### `_sass/_code.scss`
 | Selector | Change to |
@@ -123,8 +127,6 @@ table, th, td {
 ### `_sass/_page.scss`
 | Selector | Change to |
 |---|---|
-| `a.pdf-button` | `border: 1px solid #ccc; color: #333;` |
-| `a.pdf-button:hover` | `background: #f5f5f5;` |
 | `.tabular-entry p` | `color: #666;` |
 
 ### `_sass/_default.scss`
@@ -137,6 +139,12 @@ table, th, td {
 | Selector | Change to |
 |---|---|
 | `.post-date` | `color: #9a9a9a;` |
+| `.action-button` | `background: #000; color: #fff; border: 1px solid #000; border-radius: 2px;` |
+| `.action-button:hover` | `background: #fff; color: #000;` |
+| `.newsletter-form` | `border: 1px solid #ccc; border-radius: 4px;` |
+| `.newsletter-form input[type="text"], input[type="email"]` | `color: #333; background: transparent; border: 1px solid #ccc;` |
+| `.newsletter-form input::placeholder` | `color: #999;` |
+| `.newsletter-form button` | `background: #000; color: #fff; border: 1px solid #000;` |
 
 ### `_sass/_code.scss`
 | Selector | Change to |
