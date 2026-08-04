@@ -15,4 +15,4 @@ patch). This proposal challenges a conception of musical instruments as inert to
 
 ## Paper
 
-<a class="pdf-button" href="/assets/pdfs/Laptops%20Collapse-Final_paper_10.pdf">Read the paper (PDF)</a>
+<a class="action-button" href="/assets/pdfs/Laptops%20Collapse-Final_paper_10.pdf">Read the paper (PDF)</a>

@@ -15,4 +15,4 @@ He received a masters in music composition at the Hochschule für Musik und Dars
 
 He is currently pursuing his PhD in Integrated Composition, Improvisation, and Technology at UC Irvine.
 
-<a class="pdf-button" href="assets/pdfs/CV_26_05_2026.pdf">Curriculum Vitae</a>
+<a class="action-button" href="assets/pdfs/CV_26_05_2026.pdf">Curriculum Vitae</a>
