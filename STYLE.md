@@ -61,8 +61,8 @@ table, th, td {
 | Selector | Change to |
 |---|---|
 | `.post-date` | `color: #aaa;` |
-| `.action-button` | `background: #fff; color: #000; border: 1px solid #fff; border-radius: 2px;` |
-| `.action-button:hover` | `background: #000; color: #fff;` |
+| `a.action-button` | `background: #fff; color: #000; border: 1px solid #fff; border-radius: 2px;` |
+| `a.action-button:hover` | `background: #000; color: #fff;` |
 | `.newsletter-form` | `border: 1px solid #555; border-radius: 4px;` |
 | `.newsletter-form input[type="text"], input[type="email"]` | `color: #fff; background: transparent; border: 1px solid #555;` |
 | `.newsletter-form input::placeholder` | `color: #888;` |
@@ -139,8 +139,8 @@ table, th, td {
 | Selector | Change to |
 |---|---|
 | `.post-date` | `color: #9a9a9a;` |
-| `.action-button` | `background: #000; color: #fff; border: 1px solid #000; border-radius: 2px;` |
-| `.action-button:hover` | `background: #fff; color: #000;` |
+| `a.action-button` | `background: #000; color: #fff; border: 1px solid #000; border-radius: 2px;` |
+| `a.action-button:hover` | `background: #fff; color: #000;` |
 | `.newsletter-form` | `border: 1px solid #ccc; border-radius: 4px;` |
 | `.newsletter-form input[type="text"], input[type="email"]` | `color: #333; background: transparent; border: 1px solid #ccc;` |
 | `.newsletter-form input::placeholder` | `color: #999;` |
