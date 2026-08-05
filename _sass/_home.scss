@@ -6,6 +6,8 @@
 }
 
 .home-image {
+  position: relative;
+  z-index: 1;
   height: clamp(200px, 15vw, 250px);
   width: clamp(150px, 15vw, 200px);
   object-fit: contain;
@@ -19,13 +21,13 @@
 
 @keyframes gentle-rotate {
   0% {
-    transform: rotate(-6deg);
+    rotate: -6deg;
   }
   50% {
-    transform: rotate(6deg);
+    rotate: 6deg;
   }
   100% {
-    transform: rotate(-6deg);
+    rotate: -6deg;
   }
 }
 ////////////////POSTS-GRID
