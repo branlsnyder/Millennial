@@ -38,6 +38,8 @@ title: Home
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     const img = document.getElementById("home-headshot");
+    const { createDraggable } = anime;
+    createDraggable(img);
     const imgA = "assets/img/headshot-bare-1.png";
     const imgB = "assets/img/headshot-bare-2.png";
     let toggleCount = 0;
