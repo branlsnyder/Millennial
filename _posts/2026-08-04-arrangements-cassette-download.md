@@ -3,7 +3,7 @@ layout: post
 title: "Arrangements (wibwob in my training data)"
 subtitle: "A mixtape in 5 tracks"
 category: []
-tags: []
+tags: [live electronics, concatenative synthesis, diffusion]
 image: 
 slug: arrangements
 ---
