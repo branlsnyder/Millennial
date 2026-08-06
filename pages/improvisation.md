@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Performance Practice
+title: 
 category: performance
 permalink: /improvisation
 ---
-I build and perform with laptop-based instruments. 
+## I build and perform with laptop-based instruments. 
 
 Free improvisation with trio ([Live at The Sanctuary Studios](/trio-joo-xuanqi)).
 
