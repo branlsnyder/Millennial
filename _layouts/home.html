@@ -38,6 +38,25 @@ title: Home
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     const img = document.getElementById("home-headshot");
+    const { createDraggable } = anime;
+    const imgRect = img.getBoundingClientRect();
+    const imgX = imgRect.left + window.scrollX;
+    const imgY = imgRect.top + window.scrollY;
+    createDraggable(img, {
+      container: () => {
+        const docH = document.documentElement.scrollHeight;
+        const vw = window.innerWidth;
+        const sx = window.scrollX;
+        return [
+          -imgY,
+          vw - imgX - imgRect.width + sx,
+          docH - imgY - imgRect.height,
+          -imgX + sx,
+        ];
+      },
+      containerFriction: 1,
+      releaseContainerFriction: 0.8,
+    });
     const imgA = "assets/img/headshot-bare-1.png";
     const imgB = "assets/img/headshot-bare-2.png";
     let toggleCount = 0;
