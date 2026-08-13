@@ -5,7 +5,10 @@ permalink: /about
 
 ---
 
-<img class="about-image" src="assets/img/Deen-concrescence_20260808_KAAC_Tryst_Performance_010.jpg" alt="Brandon Lincoln Woo Snyder">
+<figure class="about-image">
+  <img src="assets/img/Deen-concrescence_20260808_KAAC_Tryst_Performance_010.jpg" alt="Brandon Lincoln Woo Snyder">
+  <figcaption>by Deen Babakhyi (@deen.babakhyi)</figcaption>
+</figure>
 
 <!-- <img class="about-image" src="assets/img/library-lion-1.png" alt="Brandon Lincoln Woo Snyder"> -->
 
@@ -20,15 +23,14 @@ He is currently pursuing his PhD in Integrated Composition, Improvisation, and T
 <a class="action-button" href="assets/pdfs/CV_26_05_2026.pdf">Curriculum Vitae</a>
 
 
-<div class="image-grid" markdown="0">
-  <img src="assets/img/Deen-concrescence_20260808_KAAC_Tryst_Performance_004.jpg">
- by Deen Babakhyi (@deen.babakhyi) 
-  <img src="assets/img/headshot-clc.jpeg">
-<img src="assets/img/lul-set-thumb.png"> 
-  <img src="assets/img/headshot-nypl.jpeg">
-  <img src="assets/img/headshot-bike.jpg">
-
-  
+<div class="photo-wall" markdown="0">
+  <figure>
+    <img src="assets/img/Deen-concrescence_20260808_KAAC_Tryst_Performance_004.jpg" alt="Deen-concrescence performance">
+    <figcaption>by Deen Babakhyi (@deen.babakhyi)</figcaption>
+  </figure>
+  <img src="assets/img/headshot-clc.jpeg" alt="Headshot">
+  <img src="assets/img/lul-set-thumb.png" alt="Set thumbnail">
+  <!-- <img src="assets/img/headshot-nypl.jpeg" alt="Headshot"> -->
+  <img src="assets/img/library-lion-1.png" alt="Library lion">
+  <!-- <img src="assets/img/headshot-bike.jpg" alt="Headshot on a bike"> -->
 </div>
-
-Top photo by Deen Babakhyi (@deen.babakhyi) 
