@@ -8,9 +8,9 @@ image: autograft-thumb.webp
 ---
 Dance, film, and installation.
 
-In *Autograft* Taryn Cheng navigates her indetity and practice as a dancer, as she recovers from a torn ACL. 
+In *Autograft*, Taryn Cheng navigates her indentity and practice as a dancer, as she recovers from a torn ACL. 
 
-In injury and recovery, the body and mind must rengotiate their relationship to one another. In dance, this holds high stakes, as often times the body moves in response to music. 
+In injury and recovery, the body and mind must renegotiate their relationship to one another. In dance, this holds high stakes, as oftentimes the body moves in response to music. 
 
 However, in *Autograft* the music is created live, controlled by Taryn's movements. Outfitting her leg brace with a motion-sensor, Taryn builds a sonic world. As her body gradually heals and regains in initial agency, Taryn claims new agency in a renegotiation of how music and movement have function previously in her practice.
 
