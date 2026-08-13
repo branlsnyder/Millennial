@@ -8,14 +8,57 @@
 .about-image {
   float: left;
   width: clamp(200px, 35%, 350px);
-  height: auto;
   margin: 0 2rem 1rem 0;
   display: inline;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  figcaption {
+    font-size: 0.8em;
+    color: #aaa;
+    margin-top: 0.4rem;
+  }
 }
 
 @media (max-width: 600px) {
   .about-image {
     width: clamp(100px, 17.5vw, 175px);
+  }
+}
+
+.photo-wall {
+  columns: 3 180px;
+  column-gap: 12px;
+
+  figure {
+    margin: 0 0 12px 0;
+    break-inside: avoid;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    float: none;
+    margin: 0;
+    break-inside: avoid;
+  }
+
+  figcaption {
+    font-size: 0.85em;
+    color: #aaa;
+    margin-top: 0.35rem;
+    text-align: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .photo-wall {
+    columns: 2 100px;
   }
 }
 

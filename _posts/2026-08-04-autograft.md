@@ -16,9 +16,11 @@ However, in *Autograft* the music is created live, controlled by Taryn's movemen
 
 
 <div class="image-grid" markdown="0">
-  <img src="assets/img/Deen-autograft_20260808_KAAC_Tryst_010.jpg">
+  <figure>
+    <img src="assets/img/Deen-autograft_20260808_KAAC_Tryst_010.jpg" alt="Autograft performance">
+    <figcaption>Photo by Deen Babakhyi (@deen.babakhyi)</figcaption>
+  </figure>
 </div>
-photo by Deen Babakhyi (@deen.babakhyi) 
 
 
 The music was developed collaboratively between myself and Taryn. Her leg brace was outfitted with a MUGIC motion sensor, which controlled synthesizers, samples, and audio effects programmed in Ableton Live and Max MSP.
