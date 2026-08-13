@@ -8,7 +8,7 @@ image: autograft-thumb.webp
 ---
 Dance, film, and installation.
 
-In *Autograft*, Taryn Cheng navigates her indentity and practice as a dancer, as she recovers from a torn ACL. 
+In *Autograft*, Taryn Cheng navigates her identity and practice as a dancer, as she recovers from a torn ACL. 
 
 In injury and recovery, the body and mind must renegotiate their relationship to one another. In dance, this holds high stakes, as oftentimes the body moves in response to music. 
 
