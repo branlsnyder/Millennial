@@ -6,7 +6,7 @@ permalink: /about
 ---
 
 <figure class="about-image">
-  <img src="assets/img/Deen-concrescence_20260808_KAAC_Tryst_Performance_010.jpg" alt="Brandon Lincoln Woo Snyder">
+  <img src="assets/img/opt/Deen-concrescence_20260808_KAAC_Tryst_Performance_010.webp" alt="Brandon Lincoln Woo Snyder">
   <figcaption>by Deen Babakhyi (@deen.babakhyi)</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ He is currently pursuing his PhD in Integrated Composition, Improvisation, and T
 
 <div class="photo-wall" markdown="0">
   <figure>
-    <img src="assets/img/Deen-concrescence_20260808_KAAC_Tryst_Performance_004.jpg" alt="Deen-concrescence performance">
+    <img src="assets/img/opt/Deen-concrescence_20260808_KAAC_Tryst_Performance_004.webp" alt="Deen-concrescence performance">
     <figcaption>by Deen Babakhyi (@deen.babakhyi)</figcaption>
   </figure>
   <img src="assets/img/headshot-clc.jpeg" alt="Headshot">
