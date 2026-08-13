@@ -12,7 +12,7 @@ In *Autograft*, Taryn Cheng navigates her indentity and practice as a dancer, as
 
 In injury and recovery, the body and mind must renegotiate their relationship to one another. In dance, this holds high stakes, as oftentimes the body moves in response to music. 
 
-However, in *Autograft* the music is created live, controlled by Taryn's movements. Outfitting her leg brace with a motion-sensor, Taryn builds a sonic world. As her body gradually heals and regains in initial agency, Taryn claims new agency in a renegotiation of how music and movement have function previously in her practice.
+However, in *Autograft* the music is created live, controlled by Taryn's movements. Outfitting her leg brace with a motion-sensor, Taryn builds a sonic world. As her body gradually heals and regains in initial agency, Taryn claims new agency in a renegotiation of how music and movement have functioned previously in her practice.
 
 
 <div class="image-grid" markdown="0">
