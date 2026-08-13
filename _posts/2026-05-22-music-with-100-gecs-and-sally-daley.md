@@ -22,7 +22,7 @@ More recently I’ve felt that ‘sacred’-ness does not necessarily mean ‘se
 
 I sampled Sally Daley’s music as a way to intertwine myself with her. Sampling, for me here, is a means to be in communion with the texts and figures I revere. 
 
-(Shout out to  @_goldenfinch_  for turning me on to The Signifying Monkey by Henry Louis Gates Jr., which opened the door for me into the many ways (reverant and subversive) sampling has played in contemporary hip hop culture)
+(Shout out to  @_goldenfinch_  for turning me on to The Signifying Monkey by Henry Louis Gates Jr., which opened the door for me into the many ways (reverent and subversive) sampling has played in contemporary hip hop culture)
 
 ## Excerpts 
 

@@ -17,7 +17,7 @@ permalink: /teaching
 <span class="keywordrand">Instrument Design</span>,
 <span class="keywordrand">Jazz Piano</span>,
 <span class="keywordrand">Jazz Composition</span>,
-<span class="keywordrand">Music Entreprenuership</span>,
+<span class="keywordrand">Music Entrepreneurship</span>,
 <span class="keywordrand">Aural Skills</span>,
 <span class="keywordrand">Podcasting</span>,
 <span class="keywordrand">Max MSP</span>,
