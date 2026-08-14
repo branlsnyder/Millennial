@@ -6,7 +6,7 @@ category: workshops
 tags: [teaching]
 image: music-theory-nypl-1.jpg
 ---
-<img src="assets/img/music-theory-nypl-1.jpg" alt="Music Theory for Producers at NYPL">
+<img src="assets/img/opt/music-theory-nypl-1.webp" alt="Music Theory for Producers at NYPL">
 {: .featured-media}
 
 - 1,300+ hours of teaching experience, serving 490 adults monthly.

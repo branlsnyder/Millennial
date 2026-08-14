@@ -8,7 +8,7 @@ image: winter-ceremony-thumb.webp
 ---
 During their daughter's college graduation in Texas, divorced Chinese parents briefly reunite. As old feelings and unspoken words hover in the air, the three navigate complex family dynamics while living separately.
 
-<img src="{{ site.url }}/assets/img/winter-ceremony-poster.png" alt="Winter Ceremony poster">
+<img src="{{ site.url }}/assets/img/opt/winter-ceremony-poster.webp" alt="Winter Ceremony poster">
 
 ## Awards
 2026 Nominee SXSW Grand Jury Award - Texas Short
@@ -42,5 +42,4 @@ Eric Ramos
 Joe Finfer
 
 Emily McDonald
-
 

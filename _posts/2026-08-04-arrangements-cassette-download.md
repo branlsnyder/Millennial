@@ -7,7 +7,7 @@ category: []
 image: arrangements-thumb.jpg
 slug: arrangements
 ---
-<img src="assets/img/arrangements-thumb.jpg" alt="Arrangements (wibwob in my training data) cassette">
+<img src="assets/img/opt/arrangements-thumb.webp" alt="Arrangements (wibwob in my training data) cassette">
 
 Thank you for purchasing an audio cassette of <span class="keywordrand">Arrangements (wibwob in my training data)</span> <3
 
@@ -25,5 +25,4 @@ Download a digital copy of the mixtape over Google Drive
     <button type="submit">Submit Form</button>
   </form>
 </div>
-
 

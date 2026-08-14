@@ -17,7 +17,7 @@ However, in *Autograft* the music is created live, controlled by Taryn's movemen
 
 <div class="image-grid" markdown="0">
   <figure>
-    <img src="assets/img/Deen-autograft_20260808_KAAC_Tryst_010.jpg" alt="Autograft performance">
+    <img src="assets/img/opt/Deen-autograft_20260808_KAAC_Tryst_010.webp" alt="Autograft performance">
     <figcaption>Photo by Deen Babakhyi (@deen.babakhyi)</figcaption>
   </figure>
 </div>
@@ -35,7 +35,6 @@ The music was developed collaboratively between myself and Taryn. Her leg brace 
 - Brandon Woo Snyder - Sound, Music, Brace-Motion Sensor Programming
 - Michelle Chun - Curator
 - Yuna Jo - Photo
-
 
 
 
