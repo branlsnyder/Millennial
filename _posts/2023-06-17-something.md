@@ -3,7 +3,7 @@ layout: post
 title: "Something"
 subtitle: "Durational Social Media Performance - 1 month"
 category: [composition, film]
-tags: [Browser Sound, featured, web audio, media art]
+tags: [Browser Sound, featured, web audio, media art, video]
 image: something-thumb.png
 ---
 <iframe src="https://www.youtube.com/embed/mNr4ldEvnIk?si=GkFDA7Yzajj9x6_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
