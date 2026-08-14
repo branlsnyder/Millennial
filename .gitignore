@@ -5,3 +5,6 @@ Gemfile.lock
 .DS_Store
 .jekyll-cache
 *.gem
+
+# Archived images no longer used on the site
+assets/img/unused/

@@ -6,7 +6,7 @@ category: workshops
 tags: [teaching]
 image: music-theory-nypl-1.jpg
 ---
-<img src="assets/img/music-theory-nypl-1.jpg" alt="Music Theory for Producers at NYPL">
+<img src="assets/img/opt/music-theory-nypl-1.webp" alt="Music Theory for Producers at NYPL">
 {: .featured-media}
 
 Music Theory Course for the New York Public Library
@@ -18,4 +18,3 @@ In the Fall of 2024 I co-developed with Walter Ferguson a 5-part music theory co
 3. Song Structure and Arrangement
 4. Reharmonization
 5. Ear Training
-

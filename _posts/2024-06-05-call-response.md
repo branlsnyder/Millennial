@@ -15,10 +15,9 @@ In *Call/Response*, we thought about bells as instruments of beckoning or callin
 
 
 <div class="image-grid" markdown="0">
-  <img src="assets/img/call-response-3.jpg">
-  <img src="assets/img/call-response-5.jpg">
-  <img src="assets/img/call-response-2.jpg">
-  <img src="assets/img/call-response-4.jpg">
-  <img src="assets/img/call-response-6.jpg">
+  <img src="assets/img/opt/call-response-3.webp">
+  <img src="assets/img/opt/call-response-5.webp">
+  <img src="assets/img/opt/call-response-2.webp">
+  <img src="assets/img/opt/call-response-4.webp">
+  <img src="assets/img/opt/call-response-6.webp">
 </div>
-
