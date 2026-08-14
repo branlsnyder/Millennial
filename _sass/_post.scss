@@ -3,8 +3,13 @@
 .post-content {
   // width: 600px;
   width: 90%;
+  // background: #1a1a1a;
   display: block;
   margin: 10px auto 10px;
+}
+.post-content article {
+  color: #e0e0e0;
+  // background: #1a1a1a;
 }
 .post-date {
   display: block;
