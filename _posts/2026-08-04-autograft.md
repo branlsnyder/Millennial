@@ -24,6 +24,13 @@ However, in *Autograft* the music is created live, controlled by Taryn's movemen
 
 
 The music was developed collaboratively between myself and Taryn. Her leg brace was outfitted with a MUGIC motion sensor, which controlled synthesizers, samples, and audio effects programmed in Ableton Live and Max MSP.
+
+The 16mm motion picture film format for this project aims to merge  an authentic connection between the digital technology of the motion sensor and the raw human experience of healing. The film is divided into three sections where we follow Taryn’s healing experience in stages. 
+
+Jucel filmed using an Arriflex SR2 Standard 16mm paired with an Angenieux 12-120mm PL lens with 800 ft of Kodak Vision3 500T/7219, and was developed at Fotokem in Burbank, CA and scanned at Karmir Film Lab in Frogtown. 
+
+
+
 # See <span class="keywordrand">autograft</span> at [TRYST](https://www.instagram.com/p/DbE6eUtMxSN/) August 7-9, 2026. 
 ## Trailer
 

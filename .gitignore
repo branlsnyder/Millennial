@@ -8,3 +8,6 @@ Gemfile.lock
 
 # Archived images no longer used on the site
 assets/img/unused/
+
+# Internal docs
+docs/

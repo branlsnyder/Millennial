@@ -4,7 +4,12 @@
   position: fixed;
   background-color: #1a1a1a;
   box-shadow: 0 5px 6px -6px #444;
+  transition: box-shadow 0.2s ease;
   z-index: 100;
+}
+.site-header.is-transparent {
+  background-color: transparent;
+  box-shadow: none;
 }
 @media (max-width: $container-width) {
   .site-header {
@@ -14,6 +19,10 @@
     background-color: #1a1a1a;
     box-shadow: 0 5px 6px -6px #444;
     z-index: 100;
+  }
+  .site-header.is-transparent {
+    background-color: transparent;
+    box-shadow: none;
   }
 }
 .site-header a {
@@ -62,7 +71,7 @@
     padding-right: 0.25rem;
   }
   .dropbtn {
-    background-color: #1a1a1a;
+    background-color: transparent;
     color: white;
     padding: 16px;
     margin-top: 4px;
