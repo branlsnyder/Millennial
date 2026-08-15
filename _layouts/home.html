@@ -3,6 +3,26 @@ layout: default
 title: Home
 ---
 
+<div class="hero">
+  <div class="text">
+    <h2>
+      is a 
+    <ul>
+      <li><a href="/composition" class="keywordrand">composer</a></li>
+      <li><a href="/improvisation" class="keywordrand">laptop improviser</a></li>
+      <li><a href="/tags#media-art" class="keywordrand">media artist</a></li>
+    </ul>
+    <br /><br />
+   focused on 
+   <ul>
+    <li><a href="/tool-use-and-genealogy" class="keywordrand">noise</a></li>
+    <li><a href="/tags#instrument-design" class="keywordrand">instrument design</a></li>
+    <li><a href="/laptops-collapse" class="keywordrand">laptop aesthetics</a></li>  
+  </ul>
+    </h2>
+  </div>
+</div>
+
 <div class="home-salutation-group">
   <!-- <h1>Composer, Performer, Media Artist</h1> -->
   <img
@@ -18,6 +38,9 @@ title: Home
     I am interested in meanings of creativity within technology. In my PhD at UC Irvine, I focus on <a href="/laptops-collapse" class="keywordrand">laptop aesthetics</a>, <a href="/tags#instrument-design" class="keywordrand">instrument design</a>, and <a href="/tool-use-and-genealogy" class="keywordrand">noise</a>.
   </p>
 </div>
+<p class="caption-text">
+   Banner Image by Deen Babakhyi (@deen.babakhyi)
+</p>
 
 <div class="posts-grid">
   {% for post in paginator.posts %} {% if post.tags contains "featured"

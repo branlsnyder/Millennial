@@ -166,6 +166,13 @@ iframe.featured-media,
   }
 }
 
+.caption-text {
+  font-size: 0.85em;
+  color: #aaa;
+  margin-top: 0.5rem;
+  text-align: left;
+}
+
 // Kramdown wraps bare <img> in <p class="featured-media">
 p.featured-media {
   margin-top: 0;
